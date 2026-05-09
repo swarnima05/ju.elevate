@@ -1,12 +1,12 @@
-# ATS Resume Checker
+# ju.elevate
 
 Created by **Swarnina**.
 
-This project is a React + Vite application for checking resumes against job requirements and presenting ATS-style feedback.
+ju.elevate is a React + Vite career growth platform for resume analysis, learning roadmaps, mock tests, and HR connection support.
 
 ## Features
 
-- Resume analysis interface
+- Resume analysis interface with ATS-style feedback
 - Results dashboard
 - HR connect view
 - Gemini API integration
