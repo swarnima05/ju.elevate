@@ -1,3 +1,7 @@
+// Feature owner: Siddhika Goswami
+// Module: Mock test feature
+// Handles field-based test generation, timed questions, scoring, and result feedback.
+
 import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
 import { generateMockTest, MockTestQuestion } from '../lib/gemini';
