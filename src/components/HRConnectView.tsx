@@ -1,3 +1,7 @@
+// Feature owner: Mahika Gupta
+// Module: HR connection feature
+// Handles recruiter discovery, HR profile recommendations, and LinkedIn search support.
+
 import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
 import { Linkedin, Search, ExternalLink, Users, Loader2, Play, RefreshCw } from 'lucide-react';
