@@ -1,3 +1,7 @@
+// Feature owner: Priya Aheer
+// Module: Login page
+// Handles login, signup, form validation, and local user session flow.
+
 import { useState, FormEvent, useEffect } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
 import { ATSChecker } from './components/ATSChecker';
