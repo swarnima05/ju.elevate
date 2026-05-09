@@ -1,3 +1,7 @@
+// Feature owner: Ritika Khandelwal
+// Module: Career roadmap feature
+// Handles career field selection, roadmap generation, and learning progress flow.
+
 import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
 import { generateRoadmap, RoadmapStep } from '../lib/gemini';
